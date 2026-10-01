@@ -1,0 +1,114 @@
+[
+  {
+    "qid": "Q01",
+    "question": "What is the WHO target blood pressure goal for adults with hypertension without comorbidities?",
+    "doc": "hypertension.pdf",
+    "answer_phrase": "target blood pressure treatment goal of <140/90 mmHg",
+    "occurrences": 2
+  },
+  {
+    "qid": "Q02",
+    "question": "How is gestational diabetes defined?",
+    "doc": "diabetes.pdf",
+    "answer_phrase": "Gestational diabetes is a state of carbohydrate intolerance",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q03",
+    "question": "What fasting plasma glucose value indicates diabetes?",
+    "doc": "diabetes.pdf",
+    "answer_phrase": "≥7.0 mmol/L (≥126 mg/dL)",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q04",
+    "question": "What HbA1c level is the target for good diabetes control?",
+    "doc": "diabetes.pdf",
+    "answer_phrase": "HbA1c (%)                          <6.0            <7.0",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q05",
+    "question": "Which drug should pregnant women with uncomplicated P. falciparum malaria get in the first trimester?",
+    "doc": "malaria.pdf",
+    "answer_phrase": "should be treated with artemether-lumefantrine",
+    "occurrences": 2
+  },
+  {
+    "qid": "Q06",
+    "question": "What single low dose of primaquine is given with an ACT in low-transmission areas?",
+    "doc": "malaria.pdf",
+    "answer_phrase": "a single dose of 0.25 mg/kg bw primaquine should be given with an ACT",
+    "occurrences": 2
+  },
+  {
+    "qid": "Q07",
+    "question": "When should ART initiation be offered after a confirmed HIV diagnosis?",
+    "doc": "HIV.pdf",
+    "answer_phrase": "Rapid ART initiation should be offered to all people living with HIV",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q08",
+    "question": "Which antiviral prophylaxis is recommended for HBV-positive pregnant women?",
+    "doc": "hepatitis.pdf",
+    "answer_phrase": "with tenofovir disoproxil fumarate (TDF) is recommended for all HBV-positive",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q09",
+    "question": "Which interventions are recommended for adults with alcohol dependence?",
+    "doc": "Mental_health.pdf",
+    "answer_phrase": "Combined psychosocial and pharmacological interventions should be offered for adults",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q10",
+    "question": "How are cholera patients with some dehydration treated?",
+    "doc": "Cholera.pdf",
+    "answer_phrase": "Patients with no signs or some signs of dehydration are treated with",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q11",
+    "question": "What is the initial IV bolus for severe dehydration in cholera?",
+    "doc": "Cholera.pdf",
+    "answer_phrase": "Bolus of 30 ml/kg of RL over 30 minutes",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q12",
+    "question": "What CFR can cholera reach without adequate treatment?",
+    "doc": "Cholera.pdf",
+    "answer_phrase": "Cholera CFR can reach 50% if adequate treatment is not provided",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q13",
+    "question": "What is the first-line antibiotic for cholera in adults?",
+    "doc": "Cholera.pdf",
+    "answer_phrase": "First line    Doxycycline PO   4 mg/kg single dose  300 mg single dose",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q14",
+    "question": "Why must cervical cancer screening continue despite HPV vaccination?",
+    "doc": "cancer.pdf",
+    "answer_phrase": "vaccination against human papilloma virus (HPV)",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q15",
+    "question": "What does the GDG recommend for awake prone positioning in severely ill COVID-19 patients?",
+    "doc": "Covid_19.pdf",
+    "answer_phrase": "The GDG made a conditional recommendation based on moderate/low certainty",
+    "occurrences": 1
+  },
+  {
+    "qid": "Q16",
+    "question": "Which regimens are recommended for treating latent TB infection?",
+    "doc": "tuberculosis.pdf",
+    "answer_phrase": "The following options are recommended for the treatment of LTBI regardless of HIV status",
+    "occurrences": 3
+  }
+]

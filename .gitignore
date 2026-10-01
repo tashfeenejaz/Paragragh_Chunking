@@ -1,0 +1,7 @@
+*.npy
+raw_text/
+chunks_out/
+data/
+.ipynb_checkpoints/
+__pycache__/
+.env
