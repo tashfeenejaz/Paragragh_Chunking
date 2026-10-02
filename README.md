@@ -69,6 +69,7 @@ Average per model across the 5 variants:
 - Precision@5 is capped near 0.2, because most questions have only about one relevant chunk.
 - `diabetes.pdf` has a broken font encoding, so its text is garbled and all methods struggle on it.
 - The corpus is imbalanced (`malaria.pdf` has 494 pages, `diabetes.pdf` has 12).
+- After merging (min 30 tokens), 1248 of 10009 chunks in `split256+merge30` are still under 30 tokens. 1120 of them (about 90%) are the last chunk of a page (page numbers, running headers/footers) and cannot be merged forward; the rest are blocked by the max-token limit. This is expected, since the text is used without cleaning.
 
 ## Project structure
 
