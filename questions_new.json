@@ -1,0 +1,611 @@
+[
+  {
+    "qid": "Q01",
+    "doc": "diabetes.pdf",
+    "question": "In Arabian Peninsula adults whose type 2 diabetes screening came back normal, how frequently should the test be done again?",
+    "answer_phrase": "screening should be repeated every three years",
+    "answer_phrases": [
+      "screening should be repeated every three years"
+    ],
+    "must_have": [
+      "screening",
+      "every three years"
+    ],
+    "page": 4,
+    "source_sentence": "If results are normal, screening should be repeated every three years."
+  },
+  {
+    "qid": "Q02",
+    "doc": "diabetes.pdf",
+    "question": "What treatment goals does the quick reference guide set for managing diabetes?",
+    "answer_phrase": "eliminate symptoms of hyperglycaemia",
+    "answer_phrases": [
+      "eliminate symptoms of hyperglycaemia",
+      "achieve optimum control"
+    ],
+    "must_have": [
+      "eliminate symptoms",
+      "macrovascular"
+    ],
+    "page": 5,
+    "source_sentence": "The objectives of therapy for diabetes are to: − eliminate symptoms of hyperglycaemia − achieve optimum control − reduce or eliminate microvascular and macrovascular complications of diabetes mellitus − treat associated disorders − allow the patient to achieve as normal a lifestyle as possible."
+  },
+  {
+    "qid": "Q03",
+    "doc": "diabetes.pdf",
+    "question": "What is the recommended disposition for a diabetic patient who has profound hypoglycaemia leading to coma?",
+    "answer_phrase": "severe hypoglycaemia and coma, the patient should be hospitalized",
+    "answer_phrases": [
+      "severe hypoglycaemia and coma, the patient should be hospitalized"
+    ],
+    "must_have": [
+      "hypoglycaemia",
+      "hospitalized"
+    ],
+    "page": 9,
+    "source_sentence": "In cases of severe hypoglycaemia and coma, the patient should be hospitalized."
+  },
+  {
+    "qid": "Q04",
+    "doc": "diabetes.pdf",
+    "question": "How is diabetes that begins or is first detected during pregnancy defined?",
+    "answer_phrase": "carbohydrate intolerance resulting in hyperglycaemia of variable severity",
+    "answer_phrases": [
+      "carbohydrate intolerance resulting in hyperglycaemia of variable severity",
+      "with onset or first recognition during pregnancy"
+    ],
+    "must_have": [
+      "gestational diabetes",
+      "variable severity"
+    ],
+    "page": 3,
+    "source_sentence": "&ODVVLILFDWLRQ • There are two main types of diabetes mellitus: − type 1, requiring insulin for survival − type 2, may or may not require insulin for metabolic control. • Type 1 diabetes encompasses the majority of cases which are primarily due to pancreatic islet ß-cell destruction and are prone to ketoacidosis. • Type 2 includes the common major form of diabetes mellitus which results from defect(s) in insulin secretion, almost always with a major contribution from insulin resistance. • Impaired glucose tolerance (IGT) refers to a condition intermediate between normoglycaemia and diabetes. • A clinical stage of impaired fasting glycaemia (IFG) has been introduced to classify individuals who have fasting glucose values above the normal range, but below that diagnostic of diabetes. 2 WKHUVSHFLILF W\\SHV RI GLDEHWHV • Gestational diabetes is a state of carbohydrate intolerance resulting in hyperglycaemia of variable severity, with onset or first recognition during pregnancy."
+  },
+  {
+    "qid": "Q05",
+    "doc": "Cholera.pdf",
+    "question": "What daily zinc sulphate dose is given to a child older than six months who has watery diarrhoea?",
+    "answer_phrase": "give 20 mg p.o. zinc sulphate per day",
+    "answer_phrases": [
+      "give 20 mg p.o. zinc sulphate per day"
+    ],
+    "must_have": [
+      "zinc sulphate",
+      "20 mg"
+    ],
+    "page": 46,
+    "source_sentence": "For children above 6 months give 20 mg p.o. zinc sulphate per day (for children less than 6 months 10mg PO per day) for 10 days"
+  },
+  {
+    "qid": "Q06",
+    "doc": "Cholera.pdf",
+    "question": "Which categories of cholera patients should be given antibiotics?",
+    "answer_phrase": "Cholera patients hospitalized with shock and severe dehydration",
+    "answer_phrases": [
+      "Cholera patients hospitalized with shock and severe dehydration",
+      "Patients passing at least one stool per hour"
+    ],
+    "must_have": [
+      "antibiotics",
+      "shock and severe dehydration"
+    ],
+    "page": 45,
+    "source_sentence": "Antibiotics are indicated for the following groups: 1. Cholera patients hospitalized with shock and severe dehydration"
+  },
+  {
+    "qid": "Q07",
+    "doc": "Cholera.pdf",
+    "question": "When a cholera patient is unable to drink, how should continuing diarrhoeal losses be replaced?",
+    "answer_phrase": "ongoing losses must be compensated via the intravenous route",
+    "answer_phrases": [
+      "ongoing losses must be compensated via the intravenous route"
+    ],
+    "must_have": [
+      "incapable of drinking",
+      "intravenous"
+    ],
+    "page": 45,
+    "source_sentence": "The ORS volumes for ongoing losses are estimated in table 4 below. • If the patient is incapable of drinking, ongoing losses must be compensated via the intravenous route."
+  },
+  {
+    "qid": "Q08",
+    "doc": "Cholera.pdf",
+    "question": "How is the case fatality rate worked out for cholera?",
+    "answer_phrase": "attributed to cholera by the total number of cholera cases",
+    "answer_phrases": [
+      "attributed to cholera by the total number of cholera cases"
+    ],
+    "must_have": [
+      "case fatality rate",
+      "deaths attributed"
+    ],
+    "page": 27,
+    "source_sentence": "3.2.1 Descriptive Epidemiology: 1) By Person • Description of cases (suspected and confirmed) by age, gender • Express the number of cases as incidence rates (IRs) and attack rates (ARs). • Include the number of hospitalized patients and the proportion of cases by dehydration status or treatment plan applied. • Provide the number of deaths (at the health facility and in the community) in a region or sub-county over time. • The risk of dying from cholera is usually expressed by case fatality rate (CFR), by dividing the number of deaths attributed to cholera by the total number of cholera cases (suspected and confirmed)."
+  },
+  {
+    "qid": "Q09",
+    "doc": "cancer.pdf",
+    "question": "At what point can a woman older than 65 safely stop cervical screening?",
+    "answer_phrase": "over 65 years, provided the last two smears were negative",
+    "answer_phrases": [
+      "over 65 years, provided the last two smears were negative"
+    ],
+    "must_have": [
+      "65 years",
+      "smears"
+    ],
+    "page": 28,
+    "source_sentence": "Screening is not necessary for women over 65 years, provided the last two smears were negative."
+  },
+  {
+    "qid": "Q10",
+    "doc": "cancer.pdf",
+    "question": "What characteristics make a disease appropriate for a population screening programme?",
+    "answer_phrase": "important health problem justifying the effort of screening",
+    "answer_phrases": [
+      "important health problem justifying the effort of screening",
+      "an acceptable treatment is available which could, with earlier diagnosis,"
+    ],
+    "must_have": [
+      "suitable for screening",
+      "asymptomatic phase"
+    ],
+    "page": 30,
+    "source_sentence": "A disease is suitable for screening if: p the disease is an important health problem justifying the effort of screening;"
+  },
+  {
+    "qid": "Q11",
+    "doc": "cancer.pdf",
+    "question": "During an early diagnosis programme, what is the next step when the clinical examination raises suspicion of malignancy?",
+    "answer_phrase": "the patient should be referred immediately for further investigation",
+    "answer_phrases": [
+      "the patient should be referred immediately for further investigation"
+    ],
+    "must_have": [
+      "clinical examination",
+      "referred immediately"
+    ],
+    "page": 41,
+    "source_sentence": "If the result of the clinical examination suggests a possible cancer, the patient should be referred immediately for further investigation."
+  },
+  {
+    "qid": "Q12",
+    "doc": "cancer.pdf",
+    "question": "What does it mean when screening is described as opportunistic?",
+    "answer_phrase": "unsystematic application of screening tests in routine health services",
+    "answer_phrases": [
+      "unsystematic application of screening tests in routine health services"
+    ],
+    "must_have": [
+      "opportunistic screening",
+      "unsystematic"
+    ],
+    "page": 10,
+    "source_sentence": "Opportunistic screening is the unsystematic application of screening tests in routine health services."
+  },
+  {
+    "qid": "Q13",
+    "doc": "Covid_19.pdf",
+    "question": "For how many days is isolation suggested for someone with a symptomatic SARS-CoV-2 infection?",
+    "answer_phrase": "10 days of isolation for individuals who are symptomatic",
+    "answer_phrases": [
+      "10 days of isolation for individuals who are symptomatic"
+    ],
+    "must_have": [
+      "10 days of isolation",
+      "symptomatic"
+    ],
+    "page": 22,
+    "source_sentence": "We suggest 10 days of isolation for individuals who are symptomatic due to SARS-CoV-2 infection [Conditional recommendation, very low certainty evidence]."
+  },
+  {
+    "qid": "Q14",
+    "doc": "Covid_19.pdf",
+    "question": "Which clinical findings count as emergency signs in an adult who needs urgent airway management and oxygen?",
+    "answer_phrase": "obstructed or absent breathing, severe respiratory distress, central cyanosis",
+    "answer_phrases": [
+      "obstructed or absent breathing, severe respiratory distress, central cyanosis",
+      "central cyanosis, shock, coma and/or convulsions"
+    ],
+    "must_have": [
+      "obstructed or absent breathing",
+      "cyanosis"
+    ],
+    "page": 29,
+    "source_sentence": "Adults with emergency signs (obstructed or absent breathing, severe respiratory distress, central cyanosis, shock, coma and/or convulsions) should receive emergency airway management and oxygen therapy during resuscitation to target SpO2 ≥ 94% (159)(128)."
+  },
+  {
+    "qid": "Q15",
+    "doc": "Covid_19.pdf",
+    "question": "A mother who may have COVID-19 wants to nurse her infant. What does WHO advise?",
+    "answer_phrase": "should be encouraged to initiate and continue breastfeeding",
+    "answer_phrases": [
+      "should be encouraged to initiate and continue breastfeeding"
+    ],
+    "must_have": [
+      "breastfeeding",
+      "encouraged"
+    ],
+    "page": 72,
+    "source_sentence": "We recommend that mothers with suspected or confirmed COVID-19 should be encouraged to initiate and continue breastfeeding."
+  },
+  {
+    "qid": "Q16",
+    "doc": "Covid_19.pdf",
+    "question": "According to WHO, what criteria characterise post COVID-19 condition?",
+    "answer_phrase": "last for at least 2 months and cannot be explained",
+    "answer_phrases": [
+      "last for at least 2 months and cannot be explained",
+      "cannot be explained by an alternative diagnosis"
+    ],
+    "must_have": [
+      "post covid-19 condition",
+      "3 months"
+    ],
+    "page": 10,
+    "source_sentence": "Post COVID-19 condition occurs in individuals with a history of probable or confirmed SARS- CoV-2 infection, usually 3 months from the onset of COVID-19 with symptoms that last for at least 2 months and cannot be explained by an alternative diagnosis."
+  },
+  {
+    "qid": "Q17",
+    "doc": "HIV.pdf",
+    "question": "Within what timeframe from diagnosis is starting antiretroviral therapy considered rapid?",
+    "answer_phrase": "within seven days from the day of HIV diagnosis",
+    "answer_phrases": [
+      "within seven days from the day of HIV diagnosis"
+    ],
+    "must_have": [
+      "rapid",
+      "seven days"
+    ],
+    "page": 17,
+    "source_sentence": "Rapid initiation is defined as within seven days from the day of HIV diagnosis."
+  },
+  {
+    "qid": "Q18",
+    "doc": "HIV.pdf",
+    "question": "What criteria are used to decide that a person is stable enough on antiretrovirals for less frequent clinic visits?",
+    "answer_phrase": "receiving ART for at least six months",
+    "answer_phrases": [
+      "receiving ART for at least six months",
+      "demonstrated understanding of lifelong adherence"
+    ],
+    "must_have": [
+      "established on ART",
+      "lifelong adherence"
+    ],
+    "page": 20,
+    "source_sentence": "The following criteria are used to determine if an individual is established on ART: • receiving ART for at least six months;"
+  },
+  {
+    "qid": "Q19",
+    "doc": "HIV.pdf",
+    "question": "What should be done for a person newly diagnosed with HIV before treatment is started?",
+    "answer_phrase": "retested to verify their HIV status before starting ART",
+    "answer_phrases": [
+      "retested to verify their HIV status before starting ART"
+    ],
+    "must_have": [
+      "retested",
+      "verify"
+    ],
+    "page": 14,
+    "source_sentence": "All people newly diagnosed with HIV should be retested to verify their HIV status before starting ART, using the same testing strategy and algorithm as the initial test."
+  },
+  {
+    "qid": "Q20",
+    "doc": "HIV.pdf",
+    "question": "In HIV services, what does task sharing refer to?",
+    "answer_phrase": "Task sharing involves redistributing tasks within health workforce teams",
+    "answer_phrases": [
+      "Task sharing involves redistributing tasks within health workforce teams"
+    ],
+    "must_have": [
+      "task sharing",
+      "redistributing"
+    ],
+    "page": 27,
+    "source_sentence": "Task sharing involves redistributing tasks within health workforce teams."
+  },
+  {
+    "qid": "Q21",
+    "doc": "hepatitis.pdf",
+    "question": "What is the youngest age group for which WHO recommends direct-acting antivirals in chronic hepatitis C?",
+    "answer_phrase": "and children three years and older with chronic hepatitis C",
+    "answer_phrases": [
+      "and children three years and older with chronic hepatitis C"
+    ],
+    "must_have": [
+      "pangenotypic",
+      "three years"
+    ],
+    "page": 23,
+    "source_sentence": "WHO recommends treatment using pangenotypic direct-acting antiviral regimens for all adults, adolescents and children three years and older with chronic hepatitis C, regardless of the stage of disease: Adults (≥18 years) (Strong recommendation, moderate-certainty evidence, 2018) Adolescents (12–17 years) (Strong recommendation, moderate-certainty evidence, 2022) Older children (6–11 years) (Strong recommendation, moderate-certainty evidence, 2022) Younger children (3–5 years) (Conditional recommendation, very-low-certainty evidence, 2022) Key populations Pangenotypic direct-acting antiviral therapy for hepatitis C should be offered without delay to people with recently acquired hepatitis C and ongoing risk."
+  },
+  {
+    "qid": "Q22",
+    "doc": "hepatitis.pdf",
+    "question": "Which infections should every pregnant woman be tested for at least once, as early as possible in pregnancy?",
+    "answer_phrase": "tested for HIV, syphilis and hepatitis B surface antigen",
+    "answer_phrases": [
+      "tested for HIV, syphilis and hepatitis B surface antigen"
+    ],
+    "must_have": [
+      "syphilis",
+      "pregnant women"
+    ],
+    "page": 13,
+    "source_sentence": "All pregnant women should be tested for HIV, syphilis and hepatitis B surface antigen at least once and as early as possible during their pregnancy."
+  },
+  {
+    "qid": "Q23",
+    "doc": "hepatitis.pdf",
+    "question": "How should someone with chronic hepatitis B who does not yet meet treatment criteria be followed up?",
+    "answer_phrase": "may be monitored annually for disease progression",
+    "answer_phrases": [
+      "may be monitored annually for disease progression"
+    ],
+    "must_have": [
+      "monitored annually",
+      "ALT"
+    ],
+    "page": 65,
+    "source_sentence": "Recommendation for monitoring for people not yet receiving treatment People who do not currently meet the criteria for antiviral therapy (e.g. persistently normal serum aminotransferase results and HBV DNA levels below 2000 IU/mL (when HBV DNA testing is available) or who have expressed a desire to defer treatment may be monitored annually for disease progression and ALT and HBV DNA levels (when HBV DNA testing is available)."
+  },
+  {
+    "qid": "Q24",
+    "doc": "hepatitis.pdf",
+    "question": "How should the timeliness of newborn hepatitis B vaccination be treated within immunization programme monitoring?",
+    "answer_phrase": "performance indicator for all immunization programmes",
+    "answer_phrases": [
+      "performance indicator for all immunization programmes"
+    ],
+    "must_have": [
+      "performance indicator",
+      "immunization programmes"
+    ],
+    "page": 39,
+    "source_sentence": "c) Delivery of hepatitis B vaccine within 24 hours of birth should be a performance indicator for all immunization programmes, and reporting and monitoring systems should be strengthened to improve the quality of data on the birth dose."
+  },
+  {
+    "qid": "Q25",
+    "doc": "hypertension.pdf",
+    "question": "How often should patients be reviewed after antihypertensive medication is started or altered, until they reach target?",
+    "answer_phrase": "monthly follow up after initiation or a change in antihypertensive",
+    "answer_phrases": [
+      "monthly follow up after initiation or a change in antihypertensive"
+    ],
+    "must_have": [
+      "monthly follow up",
+      "target"
+    ],
+    "page": 11,
+    "source_sentence": "WHO suggests a monthly follow up after initiation or a change in antihypertensive medications until patients reach target."
+  },
+  {
+    "qid": "Q26",
+    "doc": "hypertension.pdf",
+    "question": "Which drug classes may be used as first-line agents for adults who need drug treatment for high blood pressure?",
+    "answer_phrase": "from any of the following three classes of pharmacological antihypertensive",
+    "answer_phrases": [
+      "from any of the following three classes of pharmacological antihypertensive"
+    ],
+    "must_have": [
+      "thiazide",
+      "dihydropyridine"
+    ],
+    "page": 10,
+    "source_sentence": "For adults with hypertension requiring pharmacological treatment, WHO recommends the use of drugs from any of the following three classes of pharmacological antihypertensive medications as an initial treatment:"
+  },
+  {
+    "qid": "Q27",
+    "doc": "hypertension.pdf",
+    "question": "In a pregnant patient with hypertension, how does evidence of end-organ damage change when drug therapy should begin?",
+    "answer_phrase": "If target organ damage is present, initiating antihypertensive pharmacological treatment",
+    "answer_phrases": [
+      "If target organ damage is present, initiating antihypertensive pharmacological treatment"
+    ],
+    "must_have": [
+      "target organ damage",
+      "DBP"
+    ],
+    "page": 35,
+    "source_sentence": "If target organ damage is present, initiating antihypertensive pharmacological treatment at a DBP of ≥90 mmHg should be considered."
+  },
+  {
+    "qid": "Q28",
+    "doc": "hypertension.pdf",
+    "question": "What does the guideline mean by a strong recommendation?",
+    "answer_phrase": "adhering to the recommendation outweigh the undesirable effects",
+    "answer_phrases": [
+      "adhering to the recommendation outweigh the undesirable effects"
+    ],
+    "must_have": [
+      "strong recommendation",
+      "GDG"
+    ],
+    "page": 17,
+    "source_sentence": "A strong recommendation is one for which the GDG was confident that the desirable effects of adhering to the recommendation outweigh the undesirable effects."
+  },
+  {
+    "qid": "Q29",
+    "doc": "Malaria.pdf",
+    "question": "Which daily regimens deliver the 3.5 mg/kg total primaquine course used to prevent P. vivax relapse?",
+    "answer_phrase": "as either 0.25 mg/kg/day for 14 days or 0.5 mg/kg/day",
+    "answer_phrases": [
+      "as either 0.25 mg/kg/day for 14 days or 0.5 mg/kg/day"
+    ],
+    "must_have": [
+      "primaquine",
+      "14 days"
+    ],
+    "page": 205,
+    "source_sentence": "The 3.5 mg/kg total primaquine dose is given as either 0.25 mg/kg/day for 14 days or 0.5 mg/kg/day for 7 days; the two regimens have similar efficacy and safety."
+  },
+  {
+    "qid": "Q30",
+    "doc": "Malaria.pdf",
+    "question": "Which artemisinin-based combinations are recommended for uncomplicated falciparum malaria in children and adults?",
+    "answer_phrase": "should be treated with one of the following ACTs",
+    "answer_phrases": [
+    "should be treated with one of the following ACTs",
+    "artesunate-amodiaquine (AS+AQ) • artesunate-mefloquine (ASMQ)"
+    ],
+    "must_have": [
+      "artemether-lumefantrine",
+      "artesunate-mefloquine"
+    ],
+    "page": 17,
+    "source_sentence": "Children and adults with uncomplicated P. falciparum malaria should be treated with one of the following ACTs*:"
+  },
+  {
+    "qid": "Q31",
+    "doc": "Malaria.pdf",
+    "question": "If injectable artesunate cannot be obtained for a severe malaria case, which alternative drug is preferred?",
+    "answer_phrase": "artemether should be used in preference to quinine",
+    "answer_phrases": [
+      "artemether should be used in preference to quinine"
+    ],
+    "must_have": [
+      "artemether",
+      "quinine"
+    ],
+    "page": 22,
+    "source_sentence": "If artesunate is not available, artemether should be used in preference to quinine for treating children and adults with severe malaria."
+  },
+  {
+    "qid": "Q32",
+    "doc": "Malaria.pdf",
+    "question": "How does the guideline define elimination of malaria?",
+    "answer_phrase": "Malaria elimination is defined as the interruption of local transmission",
+    "answer_phrases": [
+      "Malaria elimination is defined as the interruption of local transmission"
+    ],
+    "must_have": [
+      "elimination",
+      "local transmission"
+    ],
+    "page": 40,
+    "source_sentence": "Malaria elimination is defined as the interruption of local transmission (reduction to zero incidence of indigenous cases) of a specified malaria parasite species in a defined geographical area as a result of deliberate intervention activities."
+  },
+  {
+    "qid": "Q33",
+    "doc": "Mental_health.pdf",
+    "question": "For how long should maintenance medication be considered in an adult whose bipolar disorder is in remission?",
+    "answer_phrase": "at least six months for adults with bipolar disorder",
+    "answer_phrases": [
+      "at least six months for adults with bipolar disorder"
+    ],
+    "must_have": [
+      "maintenance therapy",
+      "six months"
+    ],
+    "page": 122,
+    "source_sentence": "Maintenance therapy with mood stabilizers or antipsychotic medicines should be considered for at least six months for adults with bipolar disorder in remission, carefully balancing effectiveness, side-effects and individual preference."
+  },
+  {
+    "qid": "Q34",
+    "doc": "Mental_health.pdf",
+    "question": "Which oral antipsychotic medicines does the guideline name as options for adults with a psychotic disorder?",
+    "answer_phrase": "aripiprazole, chlorpromazine, haloperidol, olanzapine, paliperidone, quetiapine, risperidone",
+    "answer_phrases": [
+      "aripiprazole, chlorpromazine, haloperidol, olanzapine, paliperidone, quetiapine, risperidone"
+    ],
+    "must_have": [
+      "chlorpromazine",
+      "paliperidone"
+    ],
+    "page": 120,
+    "source_sentence": "1.1 Oral antipsychotic medicines – namely aripiprazole, chlorpromazine, haloperidol, olanzapine, paliperidone, quetiapine, risperidone – should be offered for adults with a psychotic disorder (including schizophrenia), carefully balancing effectiveness, side-effects and individual preference."
+  },
+  {
+    "qid": "Q35",
+    "doc": "Mental_health.pdf",
+    "question": "What drug options are suggested when an adult's seizures continue after two benzodiazepine doses?",
+    "answer_phrase": "seizures persisting after two doses of benzodiazepines",
+    "answer_phrases": [
+      "seizures persisting after two doses of benzodiazepines"
+    ],
+    "must_have": [
+      "status epilepticus",
+      "fosphenytoin"
+    ],
+    "page": 108,
+    "source_sentence": "In adults with established status epilepticus, i.e. seizures persisting after two doses of benzodiazepines, either intravenous fosphenytoin, intravenous phenytoin, intravenous levetiracetam, intravenous phenobarbital or intravenous valproic acid (sodium valproate) should be considered with appropriate monitoring."
+  },
+  {
+    "qid": "Q36",
+    "doc": "Mental_health.pdf",
+    "question": "In the mhGAP glossary, what is meant by polytherapy?",
+    "answer_phrase": "Provision of more than one medicine at the same time",
+    "answer_phrases": [
+      "Provision of more than one medicine at the same time",
+      "more than one medicine at the same time for the same condition"
+    ],
+    "must_have": [
+      "polytherapy",
+      "same time"
+    ],
+    "page": 15,
+    "source_sentence": "Polytherapy Provision of more than one medicine at the same time for the same condition."
+  },
+  {
+    "qid": "Q37",
+    "doc": "tuberculosis.pdf",
+    "question": "What dose of the integrase inhibitor is needed when a patient with HIV is also taking rifampicin?",
+    "answer_phrase": "needs to be increased to 50 mg twice daily",
+    "answer_phrases": [
+      "needs to be increased to 50 mg twice daily"
+    ],
+    "must_have": [
+      "dolutegravir",
+      "rifampicin"
+    ],
+    "page": 46,
+    "source_sentence": "The dose of dolutegravir (DTG) however needs to be increased to 50 mg twice daily when given together with rifampicin, a dose that is usually well tolerated and gives equivalent efficacy in viral suppression and recovery of CD4 cell count compared with efavirenz (22)."
+  },
+  {
+    "qid": "Q38",
+    "doc": "tuberculosis.pdf",
+    "question": "What are the symptoms in the WHO four-symptom screen for TB among people living with HIV?",
+    "answer_phrase": "current cough, fever, weight loss or night sweats",
+    "answer_phrases": [
+      "current cough, fever, weight loss or night sweats"
+    ],
+    "must_have": [
+      "cough",
+      "night sweats"
+    ],
+    "page": 16,
+    "source_sentence": "Among adults and adolescents living with HIV, systematic screening for TB disease should be conducted using the WHO-recommended four symptom screen and those who report any one of the symptoms of current cough, fever, weight loss or night sweats may have TB and should be evaluated for TB and other diseases (strong recommendation, moderate certainty of evidence) (12)."
+  },
+  {
+    "qid": "Q39",
+    "doc": "tuberculosis.pdf",
+    "question": "In which circumstance does the rule to start ART within two weeks of TB treatment not apply?",
+    "answer_phrase": "Except when signs and symptoms of meningitis are present",
+    "answer_phrases": [
+      "Except when signs and symptoms of meningitis are present"
+    ],
+    "must_have": [
+      "meningitis",
+      "two weeks"
+    ],
+    "page": 18,
+    "source_sentence": "Except when signs and symptoms of meningitis are present."
+  },
+  {
+    "qid": "Q40",
+    "doc": "tuberculosis.pdf",
+    "question": "How does the guideline describe TB infection?",
+    "answer_phrase": "persistent immune response to stimulation by M. tuberculosis antigens",
+    "answer_phrases": [
+      "persistent immune response to stimulation by M. tuberculosis antigens"
+    ],
+    "must_have": [
+      "tb infection",
+      "persistent immune response"
+    ],
+    "page": 14,
+    "source_sentence": "TB infection: a state of persistent immune response to stimulation by M. tuberculosis antigens with no evidence of clinically manifest active TB disease."
+  }
+]
